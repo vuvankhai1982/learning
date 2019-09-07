@@ -1,0 +1,72 @@
+body{
+    font-family: "Times New Roman", Times, serif, Tahoma, Arial ;
+    margin: 0;
+    padding: 0;
+}
+#Menu {
+    background-color: brown;
+    height: 40px;
+}
+#Menu ul {
+    margin-left: 70px;
+}
+#Menu ul li {
+    display: block;
+    list-style:  none;
+    float: left;
+    line-height: 40px;
+}
+#Menu ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 0px 10px 0px 10px;
+}
+#Menu a:hover {
+    background-color: red;
+}
+#Main #left {
+    width: 65%;
+    height: 500px;
+    float: left;
+}
+#Main #left #left-1 {
+     width: 550px;
+    height: 500px;
+    float: left;
+ }
+#Main #left #left-1 ul li {
+    list-style: none;
+    padding-left: 70px;
+}
+#Main #left #left-1 ul li a {
+    text-align: left;
+    text-decoration: none;
+}
+#Main #left #left-2 {
+    width: 250px;
+    height: 500px;
+    float: left;
+}
+#Main #left #left-2 ul li {
+    list-style: none;
+}
+#Main #left #left-2 ul li a {
+    text-align: left;
+    text-decoration: none;
+}
+#Main #left #left-2 ul li a img {
+    width: 220px;
+    height: 289px;
+}
+
+#Main #right {
+    width: 35%;
+    float: left;
+    height: 600px;
+}
+#Main #right a img{
+    padding-top: 15px;
+    padding-right: 70px;
+    padding-left: 25px;
+}

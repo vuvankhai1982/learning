@@ -1,0 +1,19 @@
+- HTML
+- CSS
+- PHP
+- MYSQL
+--------------
+https://www.php.net/
+-------------
+
+PHPSTORM, sublimetext
+
+
+GIT,  APACHE, PHPMYADMin....
+--------------
+https://www.w3schools.com/html/
+
+https://www.w3schools.com/css/default.asp
+
+
+https://dantri.com.vn/kinh-doanh/nong-yeu-cau-cua-bo-chinh-tri-ve-an-ninh-cua-cac-du-an-dau-tu-nuoc-ngoai-20190825075253912.htm
