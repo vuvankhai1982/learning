@@ -3,6 +3,9 @@ body{
     margin: 0;
     padding: 0;
 }
+* {
+    margin: 0;
+}
 #Menu {
     background-color: brown;
     height: 40px;
@@ -24,6 +27,9 @@ body{
 }
 #Menu a:hover {
     background-color: red;
+}
+#Main {
+    margin-top: 20px;
 }
 #Main #left {
     width: 65%;
@@ -67,7 +73,6 @@ body{
     height: 600px;
 }
 #Main #right a img{
-    padding-top: 15px;
     padding-right: 70px;
     padding-left: 25px;
 }
